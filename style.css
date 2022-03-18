@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+table{
+    border-collapse: collapse;
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+}
